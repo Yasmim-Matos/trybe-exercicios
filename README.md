@@ -28,3 +28,11 @@
 >- [ ] 3-5: _[Projeto - HTML & CSS]()_
 
 ## [...]
+
+**Referências e Fontes de inspiração:**
+
+>1 - [Gilson Nogueira](https://github.com/engnogueira)
+>
+>2 - [Paulo Simões](https://github.com/paulohbsimoes)
+>
+>3 - [Ana Carolina](https://github.com/gomesanac)
