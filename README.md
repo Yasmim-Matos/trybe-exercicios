@@ -6,7 +6,7 @@
 >
 >O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :white_check_mark:
+## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
 ##### [Bloco 1: Introdução - Unix & Shell](https://github.com/Yasmim-Matos/trybe-exercicios/tree/main/MODULO1-FUNDAMENTOS/bloco1_unix-%26-bash)
 
@@ -21,7 +21,7 @@
 
 ##### Bloco 3: Introdução - HTML & CSS
 
->- [ ] 3-1: _HTML & CSS - Estruturas de página_
+>- [X] 3-1: _HTML & CSS - Estruturas de página_
 >- [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
 >- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
 >- [ ] 3-4: _HTML Semântico_
