@@ -48,23 +48,23 @@
 
 *Para "ressuscitar" um arquivo é preciso fazer o comando abaixo
 
->-git log --diff-filter=D --summary: esse log vai procurar os logs diferentes e vai filtrar os que foram deletados e vai sumarizar esses logs
+>>-git log --diff-filter=D --summary: esse log vai procurar os logs diferentes e vai filtrar os que foram deletados e vai sumarizar esses logs
 
-*A primeira linha de um log (que fica ao lado direito da palavra commit) identifica aquela ação (como por exemplo a deleção de um arquivo)
+>>*A primeira linha de um log (que fica ao lado direito da palavra commit) identifica aquela ação (como por exemplo a deleção de um arquivo)
 
-*Para ressuscitar é preciso pegar os 4 primeiros caracteres desse número identificador do log e fazer o seguinte comando: 
+>>*Para ressuscitar é preciso pegar os 4 primeiros caracteres desse número identificador do log e fazer o seguinte comando: 
 
->-git checkout (os 4 caracteres)~1 (nome do arquivo): esse comando vai validar novamente o arquivo que antes estava deletado
+>>-git checkout (os 4 caracteres)~1 (nome do arquivo): esse comando vai validar novamente o arquivo que antes estava deletado
 
-*Depois de validar é preciso adicionar o arquivo e commitar ele novamente.
+>>*Depois de validar é preciso adicionar o arquivo e commitar ele novamente.
 
 *Para ignorar arquivos que você não quer adicionar ou não precisa deles, é preciso:
 
 >>- Criar um arquivo .gitignore (ele é um arquivo oculto).
 
->- Você pode escrever os nomes dos arquivos ou diretórios (exemplo: teste/). Se você colocar "*.txt" dentro do .gitignore, esse arquivo vai fazer o git ignorar todos os arquivos que tenham a extensão .txt
+>>- Você pode escrever os nomes dos arquivos ou diretórios (exemplo: teste/). Se você colocar "*.txt" dentro do .gitignore, esse arquivo vai fazer o git ignorar todos os arquivos que tenham a extensão .txt
 
->- Depois de criar e editar o .gitignore, você precisa adicionar ele e commitar.
+>>- Depois de criar e editar o .gitignore, você precisa adicionar ele e commitar.
 
 >-git fetch: verifica se foi realizada alguma alteração no repositório.
 
