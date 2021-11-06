@@ -3,7 +3,7 @@ h1 , p {
 }
 
 /* Cursor do mouse em cima da lista muda a cor de fundo (hover - cursor do mouse em cima) */
-ol:hover {
+ol:hover , ul:hover {
   background-color: red;
 }
 
@@ -13,6 +13,6 @@ li:active {
 }
 
 /* List-style: none tira os números e bolinhas que ficam antes dos li*/
-ol , ul {
+li {
     list-style: none;
 }
