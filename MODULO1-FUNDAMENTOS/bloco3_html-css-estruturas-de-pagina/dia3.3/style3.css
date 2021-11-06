@@ -1,0 +1,18 @@
+h1 , p {
+  text-align: center;
+}
+
+/* Cursor do mouse em cima da lista muda a cor de fundo (hover - cursor do mouse em cima) */
+ol:hover {
+  background-color: red;
+}
+
+/* Clicar sobre um item ativa a função de mudar de fonte (active - clicar em cima do item) */
+li:active {
+  font-family: sans-serif;
+}
+
+/* List-style: none tira os números e bolinhas que ficam antes dos li*/
+ol , ul {
+    list-style: none;
+}
