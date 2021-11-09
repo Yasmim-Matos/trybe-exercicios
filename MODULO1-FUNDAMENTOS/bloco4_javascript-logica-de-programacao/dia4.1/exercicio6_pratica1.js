@@ -42,3 +42,12 @@ console.log(modulo);
 } else {
     console.log("O número", c, "é maior que", a , "e", b);
 } */
+
+/* if (a > b && a > c) {
+    console.log('O maior número é: ' + a + ' (a)');
+  } else if (b > a && b > c) {
+    console.log('O maior número é: ' + b + ' (b)');
+  } else {
+    console.log('O maior número é: ' + c + ' (c)');
+  }
+ */
