@@ -1,5 +1,5 @@
 // 6.Escreva um programa que receba o nome de uma peça de xadrez e retorne os movimentos que ela faz.
-let peca = "bispo";
+/* let peca = "bispo";
 
 if (peca.toLowerCase() === "peao" ) {
     console.log("A peça", peca, "se move para frente ou 1 casa na diagonal");
@@ -15,7 +15,7 @@ if (peca.toLowerCase() === "peao" ) {
     console.log("A peça", peca, "se move para todas as direções");
 } else {
     console.log("Peça inválida");
-}
+} */
 
 /* Outra forma de fresolver o mesmo problema
 const chessPiece = 'bispo';
@@ -46,5 +46,42 @@ switch (chessPiece.toLowerCase()) {
 */
 
 // 7. Escreva um programa que converte uma nota dada em porcentagem (de 0 a 100) em conceitos de A a F. 
-let percent = 0;
+/* let percent = -25;
 
+if (percent < 0 || percent > 100) {
+    console.log("Erro! Conceito inválido!");
+  } else if (percent >= 90){
+    console.log("Conceito A");
+  } else if (percent >= 80){
+    console.log("Conceito B");
+  } else if (percent >= 70){
+    console.log("Conceito C");
+  } else if (percent >= 60) {
+    console.log("Conceito D");
+  } else if (percent >= 50) {
+    console.log("Conceito E");
+  } else {
+    console.log("Conceito F");
+} */
+
+// 8. Escreva um programa que defina três números em constantes e retorne true se pelo menos uma das três for par. Caso contrário, ele retorna false .
+/* const num1 = 2;
+const num2 = 3;
+const num3 = 5;
+
+if (num1 % 2 === 0 || num2 % 2 === 0 || num3 % 2 === 0){
+  console.log(true);
+} else {
+  console.log(false);
+} */
+
+// 9. Escreva um programa que defina três números em constantes e retorne true se pelo menos uma das três for ímpar. Caso contrário, ele retorna false .
+const num1 = 7;
+const num2 = 4;
+const num3 = 8;
+
+if (num1 % 2 !== 0 || num2 % 2 !== 0 || num3 % 2 !== 0){
+  console.log(true);
+} else {
+  console.log(false);
+}
