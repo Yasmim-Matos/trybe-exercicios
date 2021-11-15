@@ -88,10 +88,18 @@
                 let upLetter = document.getElementsByTagName("p");
                 for (let i = 0; i < upLetter.length; i += 1){
                     upLetter[i].innerHTML = upLetter[i].innerHTML.toUpperCase();
-                }
-               
+                }  
             }
             upperLetter();
+        
+        //Exercicio 6
+            function showP(){
+                let showTag = document.getElementsByTagName("p");
+                for (let i = 0; i < showTag.length; i += 1){
+                    console.log(showTag[i].innerHTML);
+                } 
+            }
+            showP();
     </script>
   </body>
 </html>
