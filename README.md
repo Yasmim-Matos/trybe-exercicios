@@ -27,7 +27,7 @@
 >- [X] 3-4: _HTML Semântico_
 >- [X] 3-5: _[Projeto - HTML & CSS]()_
 
-##### [Bloco 4: Introdução - JavaScript](https://github.com/Yasmim-Matos/trybe-exercicios/tree/main/MODULO1-FUNDAMENTOS/bloco4_javascript-logica-de-programacao/dia4.1)
+##### [Bloco 4: Introdução - JavaScript](https://github.com/Yasmim-Matos/trybe-exercicios/tree/main/MODULO1-FUNDAMENTOS/bloco4_javascript-logica-de-programacao)
 
 >- [X] 4-1: _JavaScript - Primeiros passos_
 >- [X] 4-2: _JavaScript - Array e loop For_
