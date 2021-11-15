@@ -62,11 +62,19 @@
 
         //Exercicio 2
             function changeColor(){
-                let teste = document.getElementsByClassName("main-content")[0];
-                teste.style.background = "rgb(76,164,109)";
+                let changeToGreen = document.getElementsByClassName("main-content")[0];
+                changeToGreen.style.background = "rgb(76,164,109)";
             }
             changeColor();
 
+        //Exercicio 3
+            function changeColorToWhite(){
+                let changeToWhite = document.getElementsByTagName("section")[0];
+                changeToWhite.style.background = "white";
+                /* let squareRed = document.getElementsByClassName('center-content')[0];
+                    squareRed.style.background = "white"; */
+            }    
+            changeColorToWhite();
     </script>
   </body>
 </html>
