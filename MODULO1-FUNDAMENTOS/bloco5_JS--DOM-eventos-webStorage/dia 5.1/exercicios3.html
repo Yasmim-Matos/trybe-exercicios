@@ -82,6 +82,16 @@
                 rightText.innerText = "Exercício 5.1 - Java Script";
             }
             correctText();
+
+        //Exercicio 5
+            function upperLetter(){
+                let upLetter = document.getElementsByTagName("p");
+                for (let i = 0; i < upLetter.length; i += 1){
+                    upLetter[i].innerHTML = upLetter[i].innerHTML.toUpperCase();
+                }
+               
+            }
+            upperLetter();
     </script>
   </body>
 </html>
