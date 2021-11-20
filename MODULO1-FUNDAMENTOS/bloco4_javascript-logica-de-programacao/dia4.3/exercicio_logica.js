@@ -26,3 +26,20 @@ for (let linha = 0; linha < n; linha += 1) {
     console.log(preencheLinha);
 } */
 
+// 2. Para o segundo exercício, faça o mesmo que antes, mas que imprima um triângulo retângulo com 5 asteriscos de base. 
+// Saída:
+/* n = 5
+*
+**
+***
+****
+***** */
+
+let n = 5;
+let preencheLinha = '';
+let simbolo = '+';
+
+for (let linha = 0; linha <= n; linha += 1){
+    console.log(preencheLinha);
+    preencheLinha += simbolo;   
+}
