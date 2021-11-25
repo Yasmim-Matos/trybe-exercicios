@@ -35,6 +35,24 @@ for (let linha = 0; linha < n; linha += 1) {
 ****
 ***** */
 
+/* let n = 5;
+let preencheLinha = '';
+let simbolo = '+';
+
+for (let linha = 0; linha <= n; linha += 1){
+    console.log(preencheLinha);
+    preencheLinha += simbolo;   
+} */
+
+// 3. Inverta o lado do triângulo
+// Saída:
+/* n = 5
+    *
+   **
+  ***
+ ****
+***** */
+
 let n = 5;
 let preencheLinha = '';
 let simbolo = '+';
