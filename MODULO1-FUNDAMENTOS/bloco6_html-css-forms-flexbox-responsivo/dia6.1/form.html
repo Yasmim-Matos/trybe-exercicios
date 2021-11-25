@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Forms</title>
+</head>
+<body>
+    <form action="" method="get">
+    <fieldset>
+        <legend>Dados Pessoais</legend>
+        <label for="user-name">Nome: </label>
+        <input type="text" name="user-name" id="user-name" placeholder="Digite o seu nome aqui" autofocus required maxlength="40">
+        <br>
+        <br>
+        <label for="user-email">E-mail: </label>
+        <input type="text" name="user-email" id="user-email" placeholder="Digite o seu email aqui" maxlength="50" required>
+        <br>
+        <br>
+        <label for="user-id">CPF: </label>
+        <input type="text" name="user-id" id="user-id" placeholder="Digite o seu CPF aqui (Sem pontuação)" maxlength="11" required>
+        <br>
+        <br>
+        <label for="user-address">Endereço: </label>
+        <input type="text" name="user-address" id="user-address" placeholder="Digite seu endereço aqui" maxlength="200" required>
+        <br>
+        <br>
+        <label for="user-city">Cidade: </label>
+        <input type="text" name="user-city" id="user-city" placeholder="Digite o nome da sua cidade" maxlength="28" required>
+        <br>
+        <br>
+        <label for="state">Estado: </label>
+        <select name="state" id="state"></select>
+        <!--Campos option com os estados sendo adicionados no script.js -->
+        <br>
+        <br>
+        <label for="complemento">Complemento: </label>
+        <input type="radio" name="complemento" id="complemento-home" required>Casa
+        <input type="radio" name="complemento" id="complemento-ap" required>Apartamento
+    </fieldset>
+    <fieldset>
+        <legend>Dados do último Emprego</legend>
+        <label for="resume-crv">Resumo do currículo: </label>
+        <textarea name="resume-crv" id="resume-crv" cols="30" rows="10" maxlength="1000" required></textarea>
+        <br>
+        <br>
+        <label for="cargo">Cargo:</label>
+        <input type="text" name="cargo" id="cargo" required maxlength="40">
+        <br>
+        <br>
+        <label for="descricao">Descrição do cargo: </label>
+        <input type="text" name="descricao" id="descricao" required maxlength="500">
+        <br>
+        <br>
+        <label for="data-inicio">Data de início: </label>
+        <input type="text" name="data-inicio" id="data-inicio" required>
+    </fieldset>
+    <br>
+    <button type="submit">Enviar</button>
+    <button>Limpar dados</button>
+    </form>
+    
+    <script src="script.js"></script>
+</body>
+</html>
