@@ -31,7 +31,9 @@
         <br>
         <br>
         <label for="state">Estado: </label>
-        <select name="state" id="state"></select>
+        <select name="state" id="state">
+            <option value="">Selecione</option>
+        </select>
         <!--Campos option com os estados sendo adicionados no script.js -->
         <br>
         <br>
@@ -40,8 +42,8 @@
         <input type="radio" name="complemento" id="complemento-ap" required>Apartamento
     </fieldset>
     <fieldset>
-        <legend>Dados do último Emprego</legend>
-        <label for="resume-crv">Resumo do currículo: </label>
+        <legend>Dados do último emprego</legend>
+        <label for="resume-crv">Resumo do currículo: </label><br>
         <textarea name="resume-crv" id="resume-crv" cols="30" rows="10" maxlength="1000" required></textarea>
         <br>
         <br>
@@ -60,7 +62,7 @@
     <button type="submit">Enviar</button>
     <button>Limpar dados</button>
     </form>
-    
+
     <script src="script.js"></script>
 </body>
 </html>
