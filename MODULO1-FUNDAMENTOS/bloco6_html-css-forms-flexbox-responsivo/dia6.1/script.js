@@ -42,30 +42,32 @@ function createOption(){
     }
 }
 
-createOption();
-
 // Verificando o campo da data de início
 
 const campoData = document.getElementById('data-inicio');
+const botaoEnviar = document.querySelector('#envia')
 
 function verificaData() {
     const data = campoData.value;
-    const dia = parseInt(data.slice(0,2));
-   
-    const mes = parseInt(data.slice(2,4));
+    const dia = parseInt(data.slice(0,1)); //01101997
+    const mes = parseInt(data.slice(2,3)); //01234568
+    const ano = parseInt(data.slice(4,8));
     
-    const ano = parseInt(data.slice(4,10));
-    
-
     if ((dia > 0 && dia <= 31) && (mes > 0 && mes <= 12) && (ano > 0)){
-        console.log('Data existente');
-         console.log(dia);
-         console.log(mes);
-         console.log(ano);
-        return true;
+        alert('Data existente');
+        console.log(dia);
+        console.log(mes);
+        console.log(ano);
     } else {
         alert('Erro: Data inválida');
+        console.log(dia);
+        console.log(mes);
+        console.log(ano);
+        
     }
 }
 
-verificaData();
+window.onload = function () {
+    createOption();
+    botaoEnviar.addEventListener('click', verificaData);
+}
