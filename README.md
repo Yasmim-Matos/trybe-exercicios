@@ -33,7 +33,7 @@
 >- [X] 4-2: _JavaScript - Array e loop For_
 >- [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 >- [X] 4-4: _JavaScript - Objetos e funções_
->- [X] 4-5: _[Projeto - Playground Functions]()_
+>- [X] 4-5: _[Projeto - Playground Functions](https://github.com/Yasmim-Matos/trybe-projetos/tree/main/Projeto%202%20-%20Playground%20Functions%20(JS))_
 
 ##### [Bloco 5: Introdução - JavaScript - Projetos](https://github.com/Yasmim-Matos/trybe-exercicios/tree/main/MODULO1-FUNDAMENTOS/bloco5_JS--DOM-eventos-webStorage)
 
