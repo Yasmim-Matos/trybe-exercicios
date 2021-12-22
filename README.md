@@ -25,7 +25,7 @@
 >- [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
 >- [X] 3-3: _HTML & CSS - Seletores e posicionamento_
 >- [X] 3-4: _HTML Semântico_
->- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/Yasmim-Matos/trybe-projetos/tree/main/Projeto%201%20-%20Lessons%20Learned%20(HTML%20e%20CSS))_
+>- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/Yasmim-Matos/trybe-projetos/tree/main/MODULO1-FUNDAMENTOS/Projeto%201%20-%20Lessons%20Learned%20(HTML%20e%20CSS))_
 
 ##### [Bloco 4: Introdução - JavaScript](https://github.com/Yasmim-Matos/trybe-exercicios/tree/main/MODULO1-FUNDAMENTOS/bloco4_javascript-logica-de-programacao)
 
@@ -33,7 +33,7 @@
 >- [X] 4-2: _JavaScript - Array e loop For_
 >- [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 >- [X] 4-4: _JavaScript - Objetos e funções_
->- [X] 4-5: _[Projeto - Playground Functions](https://github.com/Yasmim-Matos/trybe-projetos/tree/main/Projeto%202%20-%20Playground%20Functions%20(JS))_
+>- [X] 4-5: _[Projeto - Playground Functions](https://github.com/Yasmim-Matos/trybe-projetos/tree/main/MODULO1-FUNDAMENTOS/Projeto%202%20-%20Playground%20Functions%20(JS))_
 
 ##### [Bloco 5: Introdução - JavaScript - Projetos](https://github.com/Yasmim-Matos/trybe-exercicios/tree/main/MODULO1-FUNDAMENTOS/bloco5_JS--DOM-eventos-webStorage)
 
