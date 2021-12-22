@@ -25,7 +25,7 @@
 >- [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
 >- [X] 3-3: _HTML & CSS - Seletores e posicionamento_
 >- [X] 3-4: _HTML Semântico_
->- [X] 3-5: _[Projeto - HTML & CSS]()_
+>- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/Yasmim-Matos/trybe-projetos/tree/main/Projeto%201%20-%20Lessons%20Learned%20(HTML%20e%20CSS))_
 
 ##### [Bloco 4: Introdução - JavaScript](https://github.com/Yasmim-Matos/trybe-exercicios/tree/main/MODULO1-FUNDAMENTOS/bloco4_javascript-logica-de-programacao)
 
