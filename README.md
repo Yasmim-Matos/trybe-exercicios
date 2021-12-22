@@ -43,18 +43,31 @@
 >- [X] 5-4: _JavaScript - Web Storage_
 >- [X] 5-5: _[Projeto - Arte com Pixels]()_
 >- [X] 5-6: _[Projeto - Lista de tarefas]()_
->- [ ] 5-5: _[Projeto - Meme Generator]()_
->- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
->- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
 ##### [Bloco 6: HTML & CSS avançado](https://github.com/Yasmim-Matos/trybe-exercicios/tree/main/MODULO1-FUNDAMENTOS/bloco6_html-css-forms-flexbox-responsivo)
 
 >- [X] 6-1: _HTML & CSS - Forms_
 >- [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
->- [ ] 6-3: _CSS Flexbox - Part 1_
->- [ ] 6-4: _CSS Flexbox - Part 2_
->- [ ] 6-5: _CSS Responsivo - Mobile First_
->- [ ] 6-6: _[Projeto - TrybeWarts]()_
+>- [X] 6-3: _CSS Flexbox - Part 1_
+>- [X] 6-4: _CSS Flexbox - Part 2_
+>- [X] 6-5: _CSS Responsivo - Mobile First_
+>- [X] 6-6: _[Projeto - TrybeWarts]()_
+
+##### Bloco 7: JavaScript ES6 & Testes Unitários
+
+>- [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+>- [X] 7-2: _JavaScript ES6 - Fluxo de excessão e Objetos_
+>- [X] 7-3: _Primeiros passos em Jest_
+>- [ ] 7-4: _[Projeto - JavaScript Testes UnitÃ¡rios]()_
+
+##### Bloco 8: High Order Functions do JavaScript ES6
+
+>- [X] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
+>- [X] 8-2: _JavaScript ES6 - Introdução a Higher Order Functions - forEach, find, some, every, sort_
+>- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+>- [ ] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+>- [ ] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+>- [ ] 8-6: _[Projeto - Zoo functions]()_
 
 ### [...]
 
