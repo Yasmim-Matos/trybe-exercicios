@@ -58,7 +58,7 @@
 >- [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 >- [X] 7-2: _JavaScript ES6 - Fluxo de excessão e Objetos_
 >- [X] 7-3: _Primeiros passos em Jest_
->- [ ] 7-4: _[Projeto - JavaScript Testes UnitÃ¡rios]()_
+>- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ##### Bloco 8: High Order Functions do JavaScript ES6
 
