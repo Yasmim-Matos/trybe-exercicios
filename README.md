@@ -60,7 +60,7 @@
 >- [X] 7-3: _Primeiros passos em Jest_
 >- [X] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
-##### Bloco 8: High Order Functions do JavaScript ES6
+##### [Bloco 8: High Order Functions do JavaScript ES6](https://github.com/Yasmim-Matos/trybe-exercicios/tree/main/MODULO1-FUNDAMENTOS/bloco8_HOF/dia8.1)
 
 >- [X] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
 >- [X] 8-2: _JavaScript ES6 - Introdução a Higher Order Functions - forEach, find, some, every, sort_
