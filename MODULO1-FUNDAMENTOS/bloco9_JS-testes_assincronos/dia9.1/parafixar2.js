@@ -1,3 +1,8 @@
+/* 1. Adicione uma callback e trate o erro retornado.
+A função getCountry abaixo tem aproximadamente 50% de chance em obter, com sucesso, um país. Ela utiliza uma callback para poder realizar qualquer operação sobre o país retornado.
+Adicione um segundo parâmetro, que deve ser uma callback , na função getCountry ;
+Retorne essa callback na função getCountry de forma que trate a mensagem de erro. */
+
 const countryName = ({ name }) => console.log(`Returned country is ${name}`);
 const countryCurrency = ({ name, currency }) => console.log(`${name}'s currency is the ${currency}`);
 
